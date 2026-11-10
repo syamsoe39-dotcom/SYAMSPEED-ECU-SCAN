@@ -1,0 +1,1 @@
+This starter uses the Gradle 8.9 installation supplied by GitHub Actions, so a Gradle wrapper is not required for the included workflow. In Android Studio, you can open the project and sync using Gradle 8.9.
